@@ -2,7 +2,7 @@
 - 👀 I’m passionate about full-stack development, cybersecurity, and Web3 technology.  
 - 🌱 I’m currently diving deeper into AI and Zk, and exploring some tech in Go like charm.sh and cli libs
 - 💞️ I’m looking to collaborate on impactful projects that combine cutting-edge tech with real-world utility.  
-- 📫 Reach me at yuta11.xyz  
+- 📫 Reach me at sayhi@yuta11.xyz
 - 😄 Pronouns: He/Him  
 - 💡 Always hunting for the next big impactful idea!  
 
